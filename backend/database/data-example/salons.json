@@ -1,0 +1,20 @@
+[{
+    "id": 1,
+    "logo": "logo1.png",
+	"name": "Beauty Salon",
+    "address": "Guayabo",
+    "phone": "70176756",
+    "email": "salon1@gmail.com",
+    "contact": "Contacto1",
+    "state": true
+}, 
+{
+    "id": 2,
+    "logo": "logo2.png",
+	"name": "Ugly Salon",
+    "address": "Bagaces",
+    "phone": "72176886",
+    "email": "salon2@gmail.com",
+    "contact": "Contacto1",
+    "state": true
+}]
